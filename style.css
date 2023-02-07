@@ -1,0 +1,56 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 15px;
+}
+.note
+{
+    font-size: 15px;
+    color: black;|
+}
+body
+{
+    background-size: cover;
+}
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.me
+{
+    font-size: 25px;
+    width: 150px;
+    border-radius: 10px;
+}
+canvas
+{
+    border: 10px solid color;
+    border-radius: 20230px;
+    box-shadow: 7px 10px color;
+    margin-top: 100px;
+}
